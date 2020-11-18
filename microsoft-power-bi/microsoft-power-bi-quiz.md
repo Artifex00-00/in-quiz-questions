@@ -193,3 +193,52 @@ CALCULATE(SUM([Sales]) ,DATESHTD([Date] ))
     [ ] total sales for the entire month
     [ ] running total in entire year for the entire month
     [ ] rolling average over 12 months of sales
+
+Q25. You have two columns of numerical data and want to create a visual to help determine if there is a relationship between them. What kind of chart is designed to do this?
+
+    [ ] bar chart  -->?
+    [ ] scatter chart
+    [ ] bubble chart
+    [ ] line chart
+
+Q26. You just deleted a dashboard in the Power BI service and want to get it back. What should you do?
+
+    [ ] Select Undo from the toolbar 
+    [ ] You cannot undo the deletion of a dashboard
+    [ ] Press Ctrl + Z
+    [ ] Recover it from the Recycle Bin.
+    
+Q27. What should you do to increase the readability of a report?
+
+    [ ] All of these answers
+    [ ] Use borders.
+    [ ] Select the most appropriate visualization
+    [ ] Remove unnecessary field labels.
+
+Q28. What does My Workspace on powerbi.com include?
+
+    [ ] Toolbars and proferences
+    [ ] Visualizations and a fields list
+    [ ] Dashboards and reports
+    [ ] Workbooks and visualizations.
+    
+Q29. You want to access the underlying data for a specfic data point a visualization. What should you choose?
+
+    [ ] Drill up
+    [ ] Expand to next level
+    [ ] Drill down
+    [ ] Collapse.
+    
+Q30. Page 1 of your repor includes multiple visualizations. To filter just the bar chart visualization, what type of the filter should you use?
+
+    [ ] page-level
+    [ ] bar chart
+    [ ] Visual level
+    [ ] slicer.
+
+Q31. In the report editor, which task can you NOT accomplish using drag and drop?
+
+    [ ] All of these task can be done with drag and drop.
+    [ ] Rearrange and resize visualizations.
+    [ ] Create a new visualization
+    [ ] Add more information to a visualization.
