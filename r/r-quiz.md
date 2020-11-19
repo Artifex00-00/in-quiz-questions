@@ -278,3 +278,41 @@ Output: [1] 2 3 4
 - [ ] x[-1]
 - [ ] x[c(-1, 0, 0, 0)]
 - [x] x[c(-1, 2, 3, 4)]
+
+#### Q29. A variable whose type is numeric can contain which items?
+
+- [ ] real values only
+- [ ] integers, real, and logical values
+- [ ] integers and real values
+- [ ] integers, real, and raw values
+
+#### Q30. Given DFMerged <- merge(DF1, DF2) and the image below, how many rows are in DFMerged?
+
+```r
+DF1 (data frame 1):    DF2(data frame 2):
+    Var A  VarB           VarA   VarD 
+1    1     2           1  18     21
+2    4     5           2  19     22
+3    7     8           3  20     23
+```
+
+- [ ] 6
+- [ ] 9
+- [ ] 3
+- [ ] 0
+
+#### Q31. What does the MyMat[ ,3] subsetting operation return for this code?
+
+```r
+MyMat = matrix(c(7 ,9, 8, 6, 10, 12),nrow=2,ncol=3, byrow = TRUE)
+```
+
+- [ ] | [1] 8 12
+- [ ] | [ ,3]
+        [1, ] 8
+        [2, ] 12
+- [ ] | [ ,3]
+        [1, ] 10 
+        [2, ] 12
+- [ ] | [1] 10 12
+
